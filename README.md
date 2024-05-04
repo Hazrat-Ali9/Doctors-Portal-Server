@@ -1,4 +1,3 @@
-
 * npm init -y, npm i express cors dotenv mongodb jsonwebtoken
 * package.json> script> "start":"node index.js", "start-dev":"nodemon index.js"
 * .env
